@@ -17,6 +17,10 @@ A simple GST Calculator for India that helps users calculate GST-inclusive and G
 * Bootstrap 5
 * JavaScript
 
+## Live Demo
+
+https://gst-calculator-india.vercel.app/
+
 ## GitHub Repository
 
 https://github.com/askivikiofficial-byte/gst-calculator-india
